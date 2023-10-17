@@ -1,0 +1,26 @@
+{
+  "name": "ims-utils",
+  "version": "0.1.0",
+  "description": "An utils for IMS by Xihelmy",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xihelmy/ims-utils.git"
+  },
+  "keywords": [
+    "IMS"
+  ],
+  "author": "xihelmy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xihelmy/ims-utils/issues"
+  },
+  "homepage": "https://github.com/xihelmy/ims-utils#readme",
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "uuid": "^9.0.1"
+  }
+}
